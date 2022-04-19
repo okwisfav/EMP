@@ -3,11 +3,6 @@
     flex-direction: column;    
 }
 
-.section__padding {
-    padding: 4rem 6rem;
-}
-  
-
 .gpt3__blog-heading {
     width: 100%;
     text-align: left;
@@ -16,8 +11,8 @@
 }
 
 .gpt3__blog-heading h1 {
-    font-size: 57px;
-    line-height: 70px;
+    font-size: 62px;
+    line-height: 75px;
     font-family: var(--font-family);
     font-weight: 800;
 }
