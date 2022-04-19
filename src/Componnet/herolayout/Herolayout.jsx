@@ -3,7 +3,7 @@ import homeone from '../../assets/home1.jpg';
 import hometwo from '../../assets/home2.jpg';
 import homethree from '../../assets/home3.jpg';
 import homefour from '../../assets/home4.jpg';
-import herolayout from '../../Componnet/herolayout/herolayout'
+// import herolayout from '../../Componnet/herolayout/herolayout'
 import './herolayout.css';
 const Herolayout = () => {
   return (
